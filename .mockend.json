@@ -5,10 +5,7 @@
     },
     
     "nomeoriginal": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+      "loremWords": {}
     }
   }
   

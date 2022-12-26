@@ -1,12 +1,16 @@
 {
   "Post": {
-    "nomeplanta": {
+    "nomePlanta": {
       "loremWord": {}
     },
     
-    "nomeoriginal": {
+    "nomeCientifico": {
       "loremWord": {}
     }
+  },
+  
+  "caracteristicas": {
+      "string": ["loremWord": {}]
   }
   
 }

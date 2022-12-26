@@ -6,8 +6,7 @@
     
     "nomeCientifico": {
       "loremWord": {}
-    }
-  },
+    },
   
   "caracteristicas": {
       "string": ["loremWord": {}]

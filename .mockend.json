@@ -1,0 +1,8 @@
+{
+    "ModelName": {
+      "fieldName": {
+        "hasMany": "Model",
+        "belongsTo": "Model"
+      }
+    }
+  }

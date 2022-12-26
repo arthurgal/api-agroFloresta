@@ -1,10 +1,10 @@
 {
   "Post": {
     "nomeplanta": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
+      "string": [
+      "Thor",
+      "Loki"
+      ]
     },
     
     "nomeoriginal": {

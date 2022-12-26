@@ -1,7 +1,18 @@
 {
   "Post": {
-    "nomePlanta": {
-      "loremWord": {}
+    "nomeplanta": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
     },
+    
+    "nomeoriginal": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+    }
+  }
   
 }

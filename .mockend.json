@@ -1,7 +1,25 @@
 {
   "Post": {
-    "planta": {
-      "regexp": "[A-Z][a-z]{5,10}"
+    "nomeplanta": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
     }
-  }
+  },
+  
+  "nomeCientifico": {
+      "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+  },
+  
+  "caracteristica": [{
+    "loremWords": {
+        "minLength": 5,
+        "maxLength": 20
+      }
+  }]
+  
 }

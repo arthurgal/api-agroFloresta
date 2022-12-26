@@ -15,11 +15,11 @@
       }
   },
   
-  "caracteristica": [{
+  "caracteristica": {
     "loremWords": {
         "minLength": 5,
         "maxLength": 20
       }
-  }]
+  }
   
 }

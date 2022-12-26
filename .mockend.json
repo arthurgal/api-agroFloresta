@@ -2,7 +2,8 @@
   "Post": {
     "planta": {
       "loremWords": {
-          "loremWords": {}
+          "minLength": 5,
+          "maxLength": 20
       }
     }
   }

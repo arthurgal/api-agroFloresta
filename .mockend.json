@@ -1,7 +1,9 @@
 {
   "Post": {
     "planta": {
-      "loremWords": {}
+      "loremWords": {
+          "loremWords": {}
+      }
     }
   }
 }

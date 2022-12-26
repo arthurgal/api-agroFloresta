@@ -8,18 +8,4 @@
     }
   },
   
-  "nomeCientifico": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
-  },
-  
-  "caracteristica": {
-    "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
-  }
-  
 }

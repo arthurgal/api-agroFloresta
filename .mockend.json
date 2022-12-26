@@ -1,8 +1,7 @@
 {
   "Post": {
     "planta": {
-      "regexp": "[A-Z][a-z]{5,10}",
-      [ { "name": "Mxokole" }, { "name": "Tuilo" }]
+      "regexp": "[A-Z][a-z]{5,10}"
     }
   }
 }

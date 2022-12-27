@@ -1,16 +1,40 @@
 {
   "Post": {
-    "nomeplanta": {
+    "nomePublico": {
       "loremWord": {}
     },
     
-    "nomeoriginal": {
+    "nomesRelacionados": {
       "loremWord": {}
     },
     
     
-    "caracteristicas": {
-      "string": {}
+    "nomeCientifico": {
+      "loremWord": {}
+    },
+
+    "familia":{
+      "loremWord": {}
+    },
+
+    "origem":{
+      "loremWord": {}
+    },
+
+    "habitat":{
+      "loremWord": {}
+    },
+
+    "porte":{
+      "loremWord": {}
+    },
+
+    "outrasCaracteristicas":{
+      "loremWord": {}
+    },
+
+    "fotos":{
+      "loremWord": {}
     }
     
   }

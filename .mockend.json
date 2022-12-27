@@ -42,7 +42,17 @@
   "Comment": {
     "estratificacao": {
       "string": ["rasteiro", "baixo", "médio", "alto", "emergnecia"]
+    },
+
+    "nivelSucessional": {
+      "string": ["placenta", "placenta 1", "placenta 2", "secundaria", "secundaria 1", "secundaria 2", "climax"]
+    },
+
+    "sistema": {
+      "string": ["retomada", "acumulação", "abundância"]
     }
+
+
   }
   
 }
